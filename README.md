@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Sample NFT marketplace development
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic NFT Marketpalce development. It uses Solidity for smart contracts and Next.js for front-end
 
 Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
